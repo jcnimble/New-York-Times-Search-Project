@@ -2,3 +2,19 @@
     background: #20315A;
     color: white;
 }
+.fa{
+    margin-right: 10px;
+}
+.marginR{
+    margin-right: 20px;
+}
+a{
+    color: #20315A;
+}
+a:hover{
+    text-decoration: none;
+    color: #20315A;
+}
+a:hover .article-headline{
+    text-decoration: underline;
+}
